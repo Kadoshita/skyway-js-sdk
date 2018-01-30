@@ -99,17 +99,3 @@ npm run test
 * Branch
     * send all pull requests (bug fixes, new features) to the master branch.
     * maintainers will change it to an appropriate branch.
-
-### Templates
-
-#### PR
-```
-## Description of the Change
-
-## Benefits
-
-## Possible side effects
-
-## Relevant Issues
-
-```
